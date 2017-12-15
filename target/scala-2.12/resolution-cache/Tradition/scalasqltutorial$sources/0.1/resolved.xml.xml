@@ -4,7 +4,7 @@
 		module="scalasqltutorial$sources"
 		revision="0.1"
 		status="integration"
-		publication="20171215110736"
+		publication="20171215145237"
 	/>
 	<configurations>
 		<conf name="compile" visibility="public" description=""/>

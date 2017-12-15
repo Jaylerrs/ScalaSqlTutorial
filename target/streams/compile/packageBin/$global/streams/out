@@ -1,0 +1,51 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/scalasqltutorial_2.12-0.1.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/model/Users$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/model/Users$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/manager/DatabaseExecutor$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/manager/DatabaseExecutor$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/connection/DBComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/connection/DBComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/connection[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/connection[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/manager/DatabaseExecutor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/manager/DatabaseExecutor$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/components/UsersComponent$$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/components/UsersComponent$$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/manager/ListManager$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/manager/ListManager$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/main$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/connection/PostgresDbProvider.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/connection/PostgresDbProvider.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/manager[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/manager[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/main.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/application.conf[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/connection/MySqlComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/connection/MySqlComponent.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/components[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/components[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/model/UsersTable$UsersTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/model/UsersTable$UsersTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/manager/ListManager.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/manager/ListManager.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/model/Users.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/model/Users.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/components/UsersComponent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/components/UsersComponent$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/manager/DatabaseExecutor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/manager/DatabaseExecutor.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	com/tradion/jaylerr/model/UsersTable.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/model/UsersTable.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

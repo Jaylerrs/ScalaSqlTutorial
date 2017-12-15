@@ -1,0 +1,62 @@
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial source changes: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	removed:Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	added: Set(/home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/src/main/scala/com/tradion/jaylerr/manager/ListManager.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	modified: Set(/home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/src/main/scala/com/tradion/jaylerr/components/UsersComponent$.scala, /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/src/main/scala/com/tradion/jaylerr/manager/DatabaseExecutor.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated products: Set(/home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/manager/DatabaseExecutor$delayedInit$body.class, /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/manager/DatabaseExecutor$.class, /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/components/UsersComponent$$.class, /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/components/UsersComponent$.class, /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes/com/tradion/jaylerr/manager/DatabaseExecutor.class)[0m
+[0m[[0m[0mdebug[0m] [0m[0mExternal API changes: API Changes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mModified binary dependencies: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial directly invalidated classes: Set(com.tradion.jaylerr.components.UsersComponent$, com.tradion.jaylerr.manager.DatabaseExecutor)[0m
+[0m[[0m[0mdebug[0m] [0m[0m[0m
+[0m[[0m[0mdebug[0m] [0m[0mSources indirectly invalidated by:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	product: Set(/home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/src/main/scala/com/tradion/jaylerr/components/UsersComponent$.scala, /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/src/main/scala/com/tradion/jaylerr/manager/DatabaseExecutor.scala)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	binary dep: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0m	external source: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated classes: Set(com.tradion.jaylerr.components.UsersComponent$, com.tradion.jaylerr.manager.DatabaseExecutor)[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll initially invalidated sources:Set(/home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/src/main/scala/com/tradion/jaylerr/manager/ListManager.scala, /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/src/main/scala/com/tradion/jaylerr/components/UsersComponent$.scala, /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/src/main/scala/com/tradion/jaylerr/manager/DatabaseExecutor.scala)[0m
+[0m[[0m[0minfo[0m] [0m[0mCompiling 3 Scala sources to /home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.5:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0mGetting org.scala-sbt:compiler-bridge_2.12:1.0.5:compile for Scala 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] Running cached compiler 60d2a4c3 for Scala compiler version 2.12.4[0m
+[0m[[0m[0mdebug[0m] [0m[0m[zinc] The Scala compiler is invoked with:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-bootclasspath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar:/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar:/usr/lib/jvm/java-8-oracle/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar:/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar:/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar:/usr/lib/jvm/java-8-oracle/jre/classes:/home/tcdm053/.sbt/boot/scala-2.12.4/lib/scala-library.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0m	-classpath[0m
+[0m[[0m[0mdebug[0m] [0m[0m	/home/tcdm053/Desktop/Jaylerr Infinite/Scala/ScalaSqlTutorial/target/scala-2.12/classes:/home/tcdm053/.ivy2/cache/com.typesafe.slick/slick-codegen_2.12/jars/slick-codegen_2.12-3.2.0.jar:/home/tcdm053/.ivy2/cache/com.typesafe.slick/slick_2.12/bundles/slick_2.12-3.2.0.jar:/home/tcdm053/.ivy2/cache/com.typesafe/config/bundles/config-1.2.1.jar:/home/tcdm053/.ivy2/cache/org.reactivestreams/reactive-streams/jars/reactive-streams-1.0.0.jar:/home/tcdm053/.ivy2/cache/com.typesafe.slick/slick-hikaricp_2.12/bundles/slick-hikaricp_2.12-3.2.0.jar:/home/tcdm053/.ivy2/cache/com.zaxxer/HikariCP/bundles/HikariCP-2.5.1.jar:/home/tcdm053/.ivy2/cache/org.slf4j/slf4j-api/jars/slf4j-api-1.7.21.jar:/home/tcdm053/.ivy2/cache/mysql/mysql-connector-java/jars/mysql-connector-java-5.1.34.jar:/home/tcdm053/.ivy2/cache/org.postgresql/postgresql/bundles/postgresql-9.4.1212.jar[0m
+[0m[[0m[0mdebug[0m] [0m[0mScala compilation took 0.889558356 s[0m
+[0m[[0m[0minfo[0m] [0m[0mDone compiling.[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.tradion.jaylerr.components.UsersComponent$...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(com.tradion.jaylerr.components.UsersComponent$)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.tradion.jaylerr.components.UsersComponent$)[0m
+[0m[[0m[0mdebug[0m] [0m[0mThe following modified names cause invalidation of com.tradion.jaylerr.manager.DatabaseExecutor: Set(UsedName(getMember,[Default]))[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.tradion.jaylerr.components.UsersComponent$,ModifiedNames(changes = UsedName(getMember,[Default]))) invalidates 2 classes due to The com.tradion.jaylerr.components.UsersComponent$ has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(getMember,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.tradion.jaylerr.components.UsersComponent$)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by member reference: Set(com.tradion.jaylerr.manager.DatabaseExecutor)[0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.tradion.jaylerr.manager.DatabaseExecutor...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(com.tradion.jaylerr.manager.DatabaseExecutor)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.tradion.jaylerr.manager.DatabaseExecutor)[0m
+[0m[[0m[0mdebug[0m] [0m[0mNone of the modified names appears in source file of com.tradion.jaylerr.main. This dependency is not being considered for invalidation.[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.tradion.jaylerr.manager.DatabaseExecutor,ModifiedNames(changes = UsedName(res2,[Default]))) invalidates 1 classes due to The com.tradion.jaylerr.manager.DatabaseExecutor has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(res2,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.tradion.jaylerr.manager.DatabaseExecutor)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidating (transitively) by inheritance from com.tradion.jaylerr.manager.ListManager...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set(com.tradion.jaylerr.manager.ListManager)[0m
+[0m[[0m[0mdebug[0m] [0m[0mInvalidated by transitive inheritance dependency: Set(com.tradion.jaylerr.manager.ListManager)[0m
+[0m[[0m[0mdebug[0m] [0m[0mChange NamesChange(com.tradion.jaylerr.manager.ListManager,ModifiedNames(changes = UsedName(last,[Default]), UsedName(nth,[Default]), UsedName(hashCode,[Default]), UsedName(isInstanceOf,[Default]), UsedName(ne,[Default]), UsedName(notify,[Default]), UsedName(lengthOfList,[Default]), UsedName(clone,[Default]), UsedName(toString,[Default]), UsedName(eq,[Default]), UsedName(ListManager,[Default]), UsedName(flatten,[Default]), UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(reverseList,[Default]), UsedName(equals,[Default]), UsedName(finalize,[Default]), UsedName(wait,[Default]), UsedName(==,[Default]), UsedName(penultimate,[Default]), UsedName(addItemToList,[Default]), UsedName(isPalindrome,[Default]), UsedName($isInstanceOf,[Default]), UsedName(!=,[Default]), UsedName(synchronized,[Default]), UsedName(printList,[Default]), UsedName(compress,[Default]), UsedName(pack,[Default]), UsedName(asInstanceOf,[Default]), UsedName($asInstanceOf,[Default]), UsedName(##,[Default]))) invalidates 1 classes due to The com.tradion.jaylerr.manager.ListManager has the following regular definitions changed:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	UsedName(last,[Default]), UsedName(nth,[Default]), UsedName(hashCode,[Default]), UsedName(isInstanceOf,[Default]), UsedName(ne,[Default]), UsedName(notify,[Default]), UsedName(lengthOfList,[Default]), UsedName(clone,[Default]), UsedName(toString,[Default]), UsedName(eq,[Default]), UsedName(ListManager,[Default]), UsedName(flatten,[Default]), UsedName(getClass,[Default]), UsedName(notifyAll,[Default]), UsedName(reverseList,[Default]), UsedName(equals,[Default]), UsedName(finalize,[Default]), UsedName(wait,[Default]), UsedName(==,[Default]), UsedName(penultimate,[Default]), UsedName(addItemToList,[Default]), UsedName(isPalindrome,[Default]), UsedName($isInstanceOf,[Default]), UsedName(!=,[Default]), UsedName(synchronized,[Default]), UsedName(printList,[Default]), UsedName(compress,[Default]), UsedName(pack,[Default]), UsedName(asInstanceOf,[Default]), UsedName($asInstanceOf,[Default]), UsedName(##,[Default]).[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> by transitive inheritance: Set(com.tradion.jaylerr.manager.ListManager)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m	> [0m
+[0m[[0m[0mdebug[0m] [0m[0m        [0m
+[0m[[0m[0mdebug[0m] [0m[0mNew invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mInitial set of included nodes: Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mPreviously invalidated, but (transitively) depend on new invalidations:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	Set()[0m
+[0m[[0m[0mdebug[0m] [0m[0mAll newly invalidated classes after taking into account (previously) recompiled classes:Set()[0m
